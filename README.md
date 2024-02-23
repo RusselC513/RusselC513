@@ -3,6 +3,7 @@
 
 <p align="left">
 </p>
+<img src="https://raw.githubusercontent.com/RusselC513/RusselC513/main/banner.png"> 
 
 <p align="center">Professional systems engineer for more than ten years.</p>
 <p></p>
